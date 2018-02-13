@@ -27,4 +27,4 @@ Then what is the best month to launch a campaign?
 Maybe you should launch a campaign in the beginning or end of the year. Why might this be? Are people pledging less during and a month after Christmas?
 
 ![alt text](graphs/graph_1.png "monthly pledge")
-Maybe people are pledging less because they spent all their money on Christmas gifts. Or maybe there are just less worthwhile campaigns to pledge to. Regardless, the total amount pledged to campaigns, regardless of whether they eventually succeeded or failed, is considerably lower around January and December. 
+Maybe people are pledging less because they spent all their money on Christmas gifts. Or maybe there are just less worthwhile campaigns to pledge to. The total amount pledged to campaigns, regardless of whether they eventually succeeded or failed, is considerably lower around January and December. 
